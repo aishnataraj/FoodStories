@@ -5,6 +5,8 @@ FoodStories is a web-based application for restaurant food reviews that will col
 
 ## Stable branch
 
+https://git.cs.dal.ca/aishwaryan/csci5409_project
+
 ## Tools Used
 
 1. AWS CloudFormation
